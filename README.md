@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/mmrs_sakib" target="blank"><img src="https://img.shields.io/twitter/follow/mmrs_sakib?logo=twitter&style=for-the-badge" alt="mmrs_sakib" /></a> </p>
 
 - 🔭 I’m currently working on **wants not needs** a side project that makes getting into dropshipping easier for people
-- My previous projetcs **Vue Weather App** <a href="https://63ce7d3d3396030bd721bf80--superlative-klepon-522143.netlify.app/">Weather App</a>
+- My previous project: **Vue Weather App** <a href="https://63ce7d3d3396030bd721bf80--superlative-klepon-522143.netlify.app/">Weather App</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

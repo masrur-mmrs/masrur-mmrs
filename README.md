@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Masrur Rahman</h1>
 <h3 align="center">A passionate full stack developer, pursuing my Undergraduate degree in Computer Science.</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masrur-mmrs" alt="masrur-mmrs"/></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mmrs_sakib" target="blank"><img src="https://img.shields.io/twitter/follow/mmrs_sakib?logo=twitter&style=for-the-badge" alt="mmrs_sakib" /></a> </p>
 
@@ -11,7 +10,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mmrs_sakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mmrs_sakib" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/masrur-mmrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masrur-mmrs" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/masrur-sakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="masrur-sakib" height="30" width="40" /></a>
 <a href="https://kaggle.com/masrurrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="masrurrahman" height="30" width="40" /></a>

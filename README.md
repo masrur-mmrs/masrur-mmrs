@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Md Masrur Rahman</h1>
 <h3 align="center">A passionate full stack developer, pursuing my Undergraduate degree in Computer Science.</h3>
 
-
-
-- Ecommerce project <a href="https://www.cosmore.store/">**Cosmore**</a> built using <a href="https://medusajs.com/" >Medusa JS</a>
-- Ecommerce project <a href="https://www.aesthetixplus.org/">**Aesthetix**</a> built using <a href="https://medusajs.com/" >Medusa JS</a>
+- Calculator propject <a href="https://calculus-calculator-frontend.vercel.app/">**Calculus Calculator**</a> built using <a href="https://nextjs.org/" >Next JS</a>
+- Portfolio project <a href="https://aqib-portfolio-iota.vercel.app/">**Aqib Portfolio**</a> built using <a href="https://nextjs.org/" >Next JS</a>
+- Ecommerce project <a href="https://www.aesthetixplus.org/">**Aesthetix**</a> built using <a href="https://nextjs.org/" >Next JS</a>
 - My previous project: **Vue Weather App** <a href="https://masrur-weather-app.netlify.app/">Weather App</a>
 
 <h3 align="left">Connect with me:</h3>

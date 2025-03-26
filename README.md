@@ -2,7 +2,6 @@
 <h3 align="center">A passionate full stack developer, pursuing my Undergraduate degree in Computer Science.</h3>
 
 
-<p align="left"> <a href="https://twitter.com/mmrs_sakib" target="blank"><img src="https://img.shields.io/twitter/follow/mmrs_sakib?logo=twitter&style=for-the-badge" alt="mmrs_sakib" /></a> </p>
 
 - Ecommerce project <a href="https://www.cosmore.store/">**Cosmore**</a> built using <a href="https://medusajs.com/" >Medusa JS</a>
 - Ecommerce project <a href="https://www.aesthetixplus.org/">**Aesthetix**</a> built using <a href="https://medusajs.com/" >Medusa JS</a>
